@@ -7,7 +7,7 @@ import MovieCard from './MovieCard';
 // c310a7ae - this is my apikey
 
 // get movie data / link api key
-const API_URL = 'http://www.omdbapi.com?apikey=c310a7ae';
+const API_URL = 'https://www.omdbapi.com?apikey=c310a7ae';
 
 
 
